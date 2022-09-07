@@ -1,1 +1,5 @@
-Teste Gitclear
+Teste Git clear
+a
+b
+c
+d
